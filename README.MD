@@ -1,5 +1,7 @@
 # Doguito Petshop
 
+Teste
+
 Neste curso aprendi mais sobre:
 - objetos;
 - functions;
