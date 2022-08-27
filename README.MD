@@ -1,7 +1,5 @@
 # Doguito Petshop
 
-Para ver o projeto clique [aqui](https://brunosabbagmachado.github.io/alura-pet-shop/).
-
 Neste curso aprendi mais sobre:
 - objetos;
 - functions;
